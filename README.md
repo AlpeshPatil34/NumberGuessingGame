@@ -1,2 +1,3 @@
 # NumberGuessingGame
-First C# Project - Basic Number Guessing Game.
+First C# Project - Random Number Guessing Game.
+
